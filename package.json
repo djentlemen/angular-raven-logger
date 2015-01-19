@@ -5,6 +5,7 @@
     "name": "Stanislav Komanec",
     "email": "stanislav@komanec.eu"
   },
+  "description": "Simple library for logging from Angular application to Sentry",
   "dependencies": {},
   "devDependencies": {
     "chai": "^1.9.1",
@@ -32,5 +33,9 @@
   },
   "engines": {
     "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/djentlemen/angular-raven-logger"
   }
 }

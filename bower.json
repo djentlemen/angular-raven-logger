@@ -1,6 +1,7 @@
 {
   "name": "angular-raven-logger",
-  "version": "0.1.0",
+  "version": "0.0.1",
+  "description": "Simple library for logging from Angular application to Sentry",
   "authors": [
     {
       "name": "Stanislav Komanec",
