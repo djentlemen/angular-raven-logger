@@ -1,0 +1,16 @@
+---
+language: node_js
+
+node_js:
+  - '0.10'
+
+git:
+   depth: 10
+
+before_install:
+  - npm install -qg bower gulp
+  - npm install -q
+  - bower install --force
+
+script: gulp test-src
+
