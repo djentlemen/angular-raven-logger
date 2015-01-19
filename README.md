@@ -1,4 +1,4 @@
-# Angular Ravenl Logger
+# Angular Raven Logger
 
 [![Build Status](https://travis-ci.org/djentlemen/angular-raven-logger.svg?branch=master)](https://travis-ci.org/djentlemen/angular-raven-logger)
 
