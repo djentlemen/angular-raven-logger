@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Stanislav Komanec",
+        "email": "stanislav@komanec.eu"
+      },
+      "libraryName": {
+        "original": "angular-raven-logger",
+        "camelized": "angularRavenLogger",
+        "dasherized": "angular-raven-logger",
+        "slugified": "angular-raven-logger",
+        "parts": [
+          "angular",
+          "raven",
+          "logger"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/angular-raven-logger",
+      "libraryUnitTestDirectory": "test/unit/angular-raven-logger",
+      "libraryUnitE2eDirectory": "test/e2e/angular-raven-logger"
+    }
+  }
+}
