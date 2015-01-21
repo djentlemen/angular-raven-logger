@@ -12,5 +12,7 @@ before_install:
   - npm install -q
   - bower install --force
 
-script: gulp test-src
+script:
+  - gulp test-src
+  - ./node_modules/coveralls/bin/coveralls.js < coverage/lcov.info
 
